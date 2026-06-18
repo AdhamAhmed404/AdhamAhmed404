@@ -11,8 +11,10 @@
   src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg"
   height="28px"/>
 </a>
+
 <br/>
 <br/>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adham-ahmed-264816264&label=Profile%20Views&color=808080&style=for-the-badge" />
 </p>
@@ -20,11 +22,10 @@
 ---
 
 I am a **Computer Science student at the Egyptian University of Informatics (EUI)** 🇪🇬.  
-I am passionate about **algorithms, problem solving, and system-level programming**.  
-I enjoy building efficient solutions using core computer science concepts.
+I am passionate about **Information Technology, algorithms, problem solving, and system-level programming**.  
+I enjoy building efficient solutions using core computer science concepts and modern IT tools.
 
 ---
-
 
 ### 🧐 More About Me:
 
@@ -34,6 +35,7 @@ I enjoy building efficient solutions using core computer science concepts.
 - ⚙️ Interested in low-level systems and optimization
 - 🚀 Enjoy competitive programming and problem solving
 - 📚 Always learning new CS concepts
+- ❤️ Passionate about **Information Technology and software development**
 
 ---
 
@@ -63,6 +65,7 @@ I enjoy building efficient solutions using core computer science concepts.
 ### 🛠️ Focus Areas
 
 - Data Structures & Algorithms  
+- Information Technology  
 - Competitive Programming  
 - System Programming  
 - Problem Solving  
@@ -70,4 +73,3 @@ I enjoy building efficient solutions using core computer science concepts.
 ---
 
 ⭐ Thanks for visiting my profile!
-
