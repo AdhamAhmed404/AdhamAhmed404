@@ -25,7 +25,6 @@ I enjoy building efficient solutions using core computer science concepts.
 
 ---
 
-<img align="right" alt="coding" width="300px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ### 🧐 More About Me:
 
