@@ -15,9 +15,7 @@
 <br/>
 <br/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adham-ahmed-264816264&label=Profile%20Views&color=808080&style=for-the-badge" />
-</p>
+
 
 ---
 
